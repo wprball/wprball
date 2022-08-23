@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wprball
+- 👀 I’m interested in PC emulators, and arcade emulators.
+- 🌱 I’m currently learning C++, C, and Java.
+- 💞️ I’m looking to collaborate on PC emulators.
+- 😄 Pronouns: he/him
